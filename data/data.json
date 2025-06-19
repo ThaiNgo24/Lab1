@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "language": "English",
+    "greeting": "Hello World!",
+    "formal": true
+  },
+  {
+    "id": 2,
+    "language": "Spanish",
+    "greeting": "¡Hola Mundo!",
+    "formal": true
+  },
+  {
+    "id": 3,
+    "language": "French",
+    "greeting": "Bonjour le Monde!",
+    "formal": true
+  }
+]
